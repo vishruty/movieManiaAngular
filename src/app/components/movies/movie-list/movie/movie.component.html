@@ -1,0 +1,15 @@
+
+<div class="row movieDetail" style=" margin-bottom:3em; ">
+		<div class='col-md-3' style='margin-left:2em; margin-top:2em;'>
+		<img src="http://image.tmdb.org/t/p/w500{{movie.poster_path}} " >
+		</div>
+		<div class='col-md-8 ' style='margin-top:2em; margin-bottom:2em;'>
+		<p> Title: {{movie.title}} <br>
+        	Release date:  {{movie.release_date}} <br>
+        	Rating: {{movie.vote_average}}  <br>
+        </p>
+ <input type='button' class='buttonFormat' value='Add to favourites' style='margin-top:1em ;' (click)="addMovie(movie)" name='add'><br>
+        </div>
+		</div>
+
+
