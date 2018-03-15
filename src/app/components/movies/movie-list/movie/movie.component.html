@@ -8,7 +8,7 @@
         	Release date:  {{movie.release_date}} <br>
         	Rating: {{movie.vote_average}}  <br>
         </p>
- <input type='button' class='buttonFormat' value='Add to favourites' style='margin-top:1em ;' (click)="addMovie(movie)" name='add'><br>
+ <input type='button' class='buttonFormat popup' id='toggle' value={{btn_val}} style='margin-top:1em ;'   (click)="addMovie(movie)" name='add'><br>
         </div>
 		</div>
 

@@ -1,24 +1,6 @@
 {
   "movies": [
     {
-      "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
-    },
-    {
-      "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
-    },
-    {
-      "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
-    },
-    {
       "vote_count": 1582,
       "id": 7443,
       "video": false,
@@ -37,6 +19,102 @@
       "adult": false,
       "overview": "Having been hopelessly repressed and facing eventual certain death at the British chicken farm where they are held, Rocky the american rooster and Ginger the chicken decide to rebel against the evil Mr. and Mrs. Tweedy, the farm's owners. Rocky and Ginger lead their fellow chickens in a great escape from the murderous farmers and their farm of doom.",
       "release_date": "2000-06-21"
+    },
+    {
+      "vote_count": 69,
+      "id": 475759,
+      "video": false,
+      "vote_average": 6.8,
+      "title": "2048: Nowhere to Run",
+      "popularity": 7.421305,
+      "poster_path": "/5FTBLf0fnBbOmKrIuXLCrdxEUqT.jpg",
+      "original_language": "en",
+      "original_title": "2048: Nowhere to Run",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "backdrop_path": "/iiUizZMPhzGFo743aH0mz1GTLdx.jpg",
+      "adult": false,
+      "overview": "“2048: Nowhere to Run” takes place one year before the events of Blade Runner 2049. The short film focuses on Sapper, a man who is trying to make it through life day-by-day without turning back to his old ways. We’re introduced to both the gentle nature of Sapper and the violence he’s capable of when set off.",
+      "release_date": "2017-09-14"
+    },
+    {
+      "vote_count": 354,
+      "id": 310133,
+      "video": false,
+      "vote_average": 5.8,
+      "title": "Cop Car",
+      "popularity": 7.296082,
+      "poster_path": "/6LTj0CJhpOFISrpHJQD0aUILnFS.jpg",
+      "original_language": "en",
+      "original_title": "Cop Car",
+      "genre_ids": [
+        53
+      ],
+      "backdrop_path": "/mtBguy4PRzFZ0xQC6VoYz7Knmef.jpg",
+      "adult": false,
+      "overview": "Two kids find themselves in the centre of a deadly game of cat and mouse after taking a sheriff's cruiser for a joy ride.",
+      "release_date": "2015-08-07"
+    },
+    {
+      "vote_count": 1,
+      "id": 298264,
+      "video": false,
+      "vote_average": 7,
+      "title": "Pen Pal",
+      "popularity": 1.115826,
+      "poster_path": "/w03Y2ixruWHue9VjS1CPJkL9Zzq.jpg",
+      "original_language": "nl",
+      "original_title": "Penvriendin",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "A young man finds a sexy tilting pen with a living girl inside. They fall in love, but is their love strong enough to conquer the temptations of the outside world?",
+      "release_date": "2006-09-28"
+    },
+    {
+      "vote_count": 1,
+      "id": 398823,
+      "video": false,
+      "vote_average": 5,
+      "title": "Poison Pen",
+      "popularity": 1.373253,
+      "poster_path": "/2WLXUbMsUCs43tTGywoULjTy4uV.jpg",
+      "original_language": "en",
+      "original_title": "Poison Pen",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "When high-brow author PC Molloy is forced to write for April Devereaux's gossip magazine Poison Pen, he is not only caught up in a world of stars and their secrets he is also in danger of becoming a celebrity himself. Soon the spotlight is turning on Molloy and he struggles to keep his own secrets off the front page. But when he finds himself falling for his boss will he be able to find the right words?",
+      "release_date": "2014-07-11"
+    },
+    
+    {
+      "vote_count": 31,
+      "id": 49745,
+      "video": false,
+      "vote_average": 5.7,
+      "title": "The 4th Floor",
+      "popularity": 3.020164,
+      "poster_path": "/1MH5c1m9p1Fy4ER05n1M7hFkGCH.jpg",
+      "original_language": "en",
+      "original_title": "The 4th Floor",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "backdrop_path": "/aiEkupw1tA6EgUGp1HoRPhiYAOW.jpg",
+      "adult": false,
+      "overview": "A young woman moves into a new apartment that she inherited from her grandmother, who had died there in a bizarre accident. She is immediately confronted by totally bizarre neighbors and someone is obviously out to get her as rats and flies engulf her apartment. But with the array of weirdos around her, who might it be? Everyone warns her to stay away from her upstairs neighbor, but he is the only one who shows any kindness. Supposedly the neighbor below her is an 80 year old woman, but she hammers the floor so hard when the young woman moves furniture that she breaks tiles. Another neighbor seems kind enough to begin with, but later seems more interfering and threatening. Also her weatherman boyfriend can't be ruled out. Contrary to his desire for her to move in with him, she moved into their apartment.",
+      "release_date": "1999-07-31"
     }
   ]
 }

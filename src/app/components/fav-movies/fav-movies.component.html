@@ -1,3 +1,10 @@
 <p>
   fav-movies works!
 </p>
+
+<h1>Added favourites..</h1>
+
+<div *ngFor="let movie of favMoviesList">
+	
+<app-fav-movie [movie]="movie"></app-fav-movie>
+</div>

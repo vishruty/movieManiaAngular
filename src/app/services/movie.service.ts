@@ -33,4 +33,10 @@ export class MovieService {
    (error: any)=>this.handleError(error));
   }
 
+   showFav() {
+    return this.http.get(App.apiUrl+"db")
+     .map(data => data.json(),
+   (error: any)=>this.handleError(error));
+}
+
 }

@@ -1,0 +1,12 @@
+img {
+    max-width: 120vw;
+    height : auto;
+    width : auto;
+    max-height : 40vh;
+}
+
+.movieDetail{
+	background-color: rgb(0,0,0,.8);
+	font-family: 'Acme', sans-serif;
+	font-size: 3vmin;
+}
