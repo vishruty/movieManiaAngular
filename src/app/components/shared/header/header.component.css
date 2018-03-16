@@ -1,0 +1,17 @@
+.navbar-fixed-top{
+	min-height: 20vmin;
+}
+
+.heading{
+	margin-top: -0.5em;
+	font-size: 15vmin;
+	font-family: 'Coiny', cursive;
+	text-align: center;
+	background-color: black;
+	color: silver;
+	margin-left: 0em;
+}
+.navbar-fixed-top{
+	min-height: 10em;
+}
+

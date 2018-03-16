@@ -39,4 +39,18 @@ export class MovieService {
    (error: any)=>this.handleError(error));
 }
 
+
+  deleteMovie(movieToDelete) {
+     var options = new RequestOptions({
+      headers: this.headers,
+      body: {
+        id: movieToDelete.id
+      }
+    });
+     
+    return this.http.delete(App.apiUrl+"db", options)
+    .map((response: Response) => {
+      return response.json()
+    })
+  }
 }

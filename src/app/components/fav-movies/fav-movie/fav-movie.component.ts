@@ -13,4 +13,9 @@ export class FavMovieComponent implements OnInit {
   ngOnInit() {
   }
 
+  deleteMovie(){
+    return this.movieService.deleteMovie(this.movie).subscribe((res) =>{
+      console.log("sucessfully deleted")
+    })
+  }
 }
